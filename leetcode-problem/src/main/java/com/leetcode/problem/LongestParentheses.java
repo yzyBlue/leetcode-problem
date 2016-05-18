@@ -1,4 +1,4 @@
-package com.nextpermutation;
+package com.leetcode.problem;
 
 import java.util.ArrayList;
 
